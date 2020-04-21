@@ -28,22 +28,18 @@ L’application doit permettre :
 **Aux internautes de :
 
  Visualiser dans le catalogue des produits en vente sur la plateforme.  
-
  Afficher les détails d’un produit  
-
  Créer un compte utilisateur de type acheteur, vendeur ou acheteur et vendeur  
 
 **Aux acheteurs de :
 
  Commander un article (un seul à la fois => pas de panier). Au moment de la commande, l’acheteur doit renseigner ses coordonnées bancaires et l’application doit valider que le n° de CB contient « 10 chiffres ».  
-
  Lister les articles commandés.   
 
 **Aux vendeur de :
 
  Ajouter un article sur le site qui aura l’état « disponible » pour qu’il soit référencé comme étant en vente  
-
- Gérer ses commandes (lister les commandes de ses produits, pourvoir les validées (état « valider ») et les envoyées (état « envoyer »)  
+ Gérer ses commandes (lister les commandes de ses produits, pourvoir les validées (état « valider ») et les envoyées (état « envoyer ») 
  Gérer ses articles : ajouter un article. Supprimer et modifier s’ils ne sont pas vendus.  
 
 **Aux administrateur de :
