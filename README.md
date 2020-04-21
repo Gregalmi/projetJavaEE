@@ -1,7 +1,7 @@
 # projetJavaEE
 Application distribuée Java EE
 
-Application réalisé en 10 jours à 2. 
+Application web réalisé en 10 jours à 2. 
 
 Je vous invite à lire le dossier de conception aini que le code. 
 
