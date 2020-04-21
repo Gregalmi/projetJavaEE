@@ -17,10 +17,10 @@ Ce projet étant un projet de développement web, les efforts doivent être port
 
 **Utilisateurs :
 
- Les internautes : utilisateurs non authentifiés.
- Les acheteurs : utilisateurs ayant créé un compte de type acheteur.
- Les vendeurs : utilisateurs ayant créé un compte de type vendeur.
- Les acheteurs/vendeurs : utilisateurs qui cumule les rôles acheteur et vendeur.
+ Les internautes : utilisateurs non authentifiés.  
+ Les acheteurs : utilisateurs ayant créé un compte de type acheteur.  
+ Les vendeurs : utilisateurs ayant créé un compte de type vendeur.  
+ Les acheteurs/vendeurs : utilisateurs qui cumule les rôles acheteur et vendeur.  
  Les administrateurs : utilisateurs dont le compte est créé soit par un fichier de configuration soit à l’initialisation de l’application (dans le code).  
 
 L’application doit permettre :  
