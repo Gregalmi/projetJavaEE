@@ -15,7 +15,7 @@ Ce projet étant un projet de développement web, les efforts doivent être port
 
 #### Exigences fonctionnelles
 
-**Utilisateurs :  
+**Utilisateurs :
 
  Les internautes : utilisateurs non authentifiés.
  Les acheteurs : utilisateurs ayant créé un compte de type acheteur.
@@ -25,22 +25,27 @@ Ce projet étant un projet de développement web, les efforts doivent être port
 
 L’application doit permettre :  
 
-**Aux internautes de :  
+**Aux internautes de :
 
- Visualiser dans le catalogue des produits en vente sur la plateforme.
- Afficher les détails d’un produit
- Créer un compte utilisateur de type acheteur, vendeur ou acheteur et vendeur
-**Aux acheteurs de :  
+ Visualiser dans le catalogue des produits en vente sur la plateforme.  
 
- Commander un article (un seul à la fois => pas de panier). Au moment de la commande, l’acheteur doit renseigner ses coordonnées bancaires et l’application doit valider que le n° de CB contient « 10 chiffres ».
- Lister les articles commandés.  
+ Afficher les détails d’un produit  
 
-**Aux vendeur de :  
+ Créer un compte utilisateur de type acheteur, vendeur ou acheteur et vendeur  
 
- Ajouter un article sur le site qui aura l’état « disponible » pour qu’il soit référencé comme étant en vente
- Gérer ses commandes (lister les commandes de ses produits, pourvoir les validées (état « valider ») et les envoyées (état « envoyer »)
+**Aux acheteurs de :
+
+ Commander un article (un seul à la fois => pas de panier). Au moment de la commande, l’acheteur doit renseigner ses coordonnées bancaires et l’application doit valider que le n° de CB contient « 10 chiffres ».  
+
+ Lister les articles commandés.   
+
+**Aux vendeur de :
+
+ Ajouter un article sur le site qui aura l’état « disponible » pour qu’il soit référencé comme étant en vente  
+
+ Gérer ses commandes (lister les commandes de ses produits, pourvoir les validées (état « valider ») et les envoyées (état « envoyer »)  
  Gérer ses articles : ajouter un article. Supprimer et modifier s’ils ne sont pas vendus.  
 
-**Aux administrateur de :  
+**Aux administrateur de :
 
  Créer des catégories d’articles
